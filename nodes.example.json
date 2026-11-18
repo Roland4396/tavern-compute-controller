@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {
+      "agent_port": 21000,
+      "glm_port": 21001,
+      "h3_port": 21002,
+      "h3_ref_port": 21003,
+      "graph_port": 21004,
+      "tts_port": 21005,
+      "seedvr3_port": 21006,
+      "qwen38_native_port": 21007,
+      "qwen38_yarn_port": 21008,
+      "name": "demo-node",
+      "deepseek_port": 21001
+    }
+  ]
+}
